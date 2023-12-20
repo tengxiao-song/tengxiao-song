@@ -9,9 +9,9 @@
   <a href="mailto:tengxiao@seas.upenn.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/tengxiao-song/resume/blob/main/TENGXIAO%20SONG%20resume.pdf">
+  <a href="https://github.com/tengxiao-song/resume/raw/main/TENGXIAO%20SONG%20resume.pdf" />
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
+</a>
 </div>
 
 
