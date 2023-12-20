@@ -5,8 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tengxiao+Song!;"/>
   </a>
 </h1>
-### Hi there 👋
-
+<div align="center">
+  <a href="tengxiao@seas.upenn.edu">
+    <img src="https://img.shields.io/badge/Gamil-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 <!--
 **tengxiao-song/tengxiao-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
