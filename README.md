@@ -6,10 +6,13 @@
   </a>
 </h1>
 <div align="center">
-  <a href="tengxiao@seas.upenn.edu">
-    <img src="https://img.shields.io/badge/Gamil-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:tengxiao@seas.upenn.edu">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
+
+
+
 <!--
 **tengxiao-song/tengxiao-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
