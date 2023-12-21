@@ -6,27 +6,9 @@
   </a>
 </h1>
 <div align="center">
-  <a href="mailto:tengxiao@seas.upenn.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://github.com/tengxiao-song/resume/blob/main/TENGXIAO%20SONG%20resume.pdf" />
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=sqlite&logoColor=white">
-</a>
+  <a href="mailto:tengxiao@seas.upenn.edu"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://github.com/tengxiao-song/resume/raw/main/TENGXIAO%20SONG%20resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
 </div>
 
 
 
-<!--
-**tengxiao-song/tengxiao-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
