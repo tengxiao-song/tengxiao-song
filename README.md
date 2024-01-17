@@ -13,8 +13,9 @@
 <h2 align="center">Languages-Tools-Frameworks</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,pytorch,html,css,js,mysql,sqlite,r" /><br>
-    <img src="https://skillicons.dev/icons?i=atom,aws,css,git,github,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,r" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,express,jquery,nodejs,pytorch,react,sklearn" /><br>
+    <img src="https://skillicons.dev/icons?i=atom,aws,css,git,github,idea,postman,vscode,mysql,sqlite,postgres" />
   </a>
 </div>
 
