@@ -7,7 +7,7 @@
 </h1>
 <div align="center">
   <a href="mailto:tengxiao@seas.upenn.edu"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="https://github.com/tengxiao-song/resume/raw/main/TENGXIAO%20SONG%20resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <a href="https://github.com/tengxiao-song/resume/blob/029272df6f7b688f94f04a077fb7dacac5ba14ae/Tengxiao%20Song%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
 </div>
 
 <h2 align="center">Languages-Tools-Frameworks</h2>
